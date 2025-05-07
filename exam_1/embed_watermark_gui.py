@@ -180,6 +180,3 @@ if __name__ == '__main__':
     root = tk.Tk()
     EmbedGUI(root)
     root.mainloop()
-    root = tk.Tk()
-    EmbedGUI(root)
-    root.mainloop()
